@@ -19,7 +19,8 @@
   "homepage": "https://github.com/TreyRogers7/note-taker#readme",
   "keywords": [],
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
